@@ -18,7 +18,7 @@ Classifies regular expressions as either an ID, INT, FP, or "Does not match".
 - Followed by one or more hexidecimal digits
 - Upper and lower case letters acceptable
 
-### F{ definition
+### FP definition
 
  - One or more decimal digits
  - Followed by a decimal point
