@@ -1,4 +1,21 @@
-// Jacob Wilkins
+/*H****************************************************************
+* FILENAME :        rec.cs
+*
+* DESCRIPTION :
+*       Classifies text using defined regular expressions 
+*
+* PUBLIC FUNCTIONS :
+*       int     processToken( string )
+*
+* NOTES :
+*       This function uses specific critera to classify
+*       Criteria described in README.md
+*
+*       Copyright 2017, Jacob Wilkins.  All rights reserved.
+* 
+* AUTHOR :    Jacob Wilkins        START DATE :    24 Sep 18
+*
+*H*/
 
 using System;
 using System.IO;
