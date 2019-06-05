@@ -1,5 +1,5 @@
 #H##############################################################
-# FILENAME :        rec.cs
+# FILENAME :        rec.py
 #
 # DESCRIPTION :
 #       Classifies text using defined regular expressions 
